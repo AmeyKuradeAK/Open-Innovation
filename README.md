@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Open Innovation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project is created for WCE Hackathon
+
+# Team Mates
+1. Yogita Khot
+2. Amey Kurade
+3. Sana Dange
+4. Vaishnavi Patil
 
 ## Available Scripts
 
