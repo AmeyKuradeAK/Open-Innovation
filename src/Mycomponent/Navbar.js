@@ -1,9 +1,13 @@
 import React from "react";
+import './Navbar.css';
 
 export default function Navbar() {
   return (
+    <>
     <div>
-      <>
+    <h1>Open Innovation</h1>
+
+      
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
           <div className="container-fluid">
             <a className="navbar-brand" href="#">
@@ -84,8 +88,9 @@ export default function Navbar() {
             </div>
           </div>
         </nav>
-      </>
-      <h1 text-align="Center">Open Innovation</h1>
+      
+
     </div>
+  </>
   );
 }
